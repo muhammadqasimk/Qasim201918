@@ -1,6 +1,6 @@
 <ul>
-  <li>👋 Hi, I’m Qasim , A Test Automation Engineer</li>
-  <li>🛠️ I am currently working on Selenium WebDriver(Python), Hybrid Framework, Pytest, Postman, Toad for Oracle, Pycharm, Lighthouse Intellij idea, OWASP ZAP</li>
+  <li>👋 Hi, I am Qasim , A Full Stack software test Engineer</li>
+  <li>🛠️ I am currently working on Selenium, Python, Hybrid Framework, Playwright, Javascript, Typescript, Pytest, Postman, Toad for Oracle, Pycharm, Lighthouse Intellij idea, OWASP ZAP</li>
   <li>🛠️ Project Management Tools: Jira, TFS, Azure DevOps, CI/CD(Jenkins)</li>
   <li>👀 Version Control (Git)</li>
   <li>🌱 I’m currently learning new technologies and tools</li>
