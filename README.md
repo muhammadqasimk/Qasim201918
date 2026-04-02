@@ -1,7 +1,7 @@
 <ul>
   <li>👋 Hi, I am Qasim , A Full Stack software test Engineer</li>
-  <li>🛠️ I am currently working on Selenium, Python, Hybrid Framework, Playwright, Javascript, Typescript, Pytest, Postman, Toad for Oracle, Pycharm, Lighthouse Intellij idea, OWASP ZAP</li>
-  <li>🛠️ Project Management Tools: Jira, TFS, Azure DevOps, CI/CD(Jenkins)</li>
+  <li>🛠️ I am currently working on Selenium, Python, Hybrid Framework, Playwright, Javascript, Typescript, Pytest, Flutter Integration Testing, Azure Load Testing, K6, Jmeter, Postman, Toad for Oracle, Pycharm, Lighthouse Intellij idea, OWASP ZAP</li>
+  <li>🛠️ Project Management Tools: Jira, TFS, Azure DevOps, CI/CD(Jenkins, Github actions, Azure DevOps)</li>
   <li>👀 Version Control (Git)</li>
   <li>🌱 I’m currently learning new technologies and tools</li>
   <li>📫 How to reach me ...email: qasimkhan201918@icloud.com</li>
